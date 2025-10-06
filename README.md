@@ -42,7 +42,7 @@ cd abrir-conta-bancaria
 
 npm install
 
-###4️⃣ Instalar os módulos necessários
+### 4️⃣ Instalar os módulos necessários
 
 npx expo install @react-native-picker/picker @react-native-community/slider
 
