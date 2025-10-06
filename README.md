@@ -33,29 +33,35 @@ Após a validação dos campos, é exibida uma mensagem com o resumo da conta cr
 ### 1️⃣ Instalar o Expo CLI (caso ainda não tenha)
 npm install -g expo-cli
 
-2️⃣ Clonar o projeto ou criar um diretório e adicionar o código
+### 2️⃣ Clonar o projeto ou criar um diretório e adicionar o código
 
-git clone 
+git clone https://github.com/ddiegoxx/Conta_bancaria.git
 cd abrir-conta-bancaria
 
-3️⃣ Instalar as dependências do projeto
+### 3️⃣ Instalar as dependências do projeto
 
 npm install
-4️⃣ Instalar os módulos necessários
+
+###4️⃣ Instalar os módulos necessários
 
 npx expo install @react-native-picker/picker @react-native-community/slider
-5️⃣ Executar o aplicativo
+
+### 5️⃣ Executar o aplicativo
 
 npx expo start
-📱 Como testar
+
+### 📱 Como testar:
+
 Escaneie o QR Code gerado no terminal com o app Expo Go (Android/iOS);
 
 Ou pressione a para abrir no emulador Android;
 
 Ou pressione i para abrir no simulador iOS (Mac).
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 Diego Martinez
 Projeto prático — Desenvolvimento Mobile (React Native)
-Comando principal de execução:
+
+### Comando principal de execução:
+
 npx expo start
